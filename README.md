@@ -3,7 +3,6 @@
 
 This web application provides an interactive visualization of JavaScript's event loop, helping developers understand how asynchronous JavaScript code executes.
 
-![Event Loop Visualization](public/placeholder.svg)
 
 ## Project Overview
 
